@@ -79,6 +79,7 @@ Data Overview: Analyzed a dataset comprising 10,127 bank customers, focusing on 
 -  Chi-Square Test: Examined the independence of customer attrition from marital status. The test indicated no significant relationship between these variables.
 -  Logistic Regression: Identified key predictors of customer attrition, including total transaction amount, gender, and card category. Age and credit limit were found to be non-significant in predicting attrition.
 
+
 #### Video Game Sales Analysis
 Data Overview: Analyzed video game sales data to explore sales trends across various platforms and genres globally.
 
@@ -86,3 +87,14 @@ Data Overview: Analyzed video game sales data to explore sales trends across var
 -  Correlation Exploration: Investigated relationships between sales figures in different regions and other variables to uncover significant sales trends and regional preferences.
 -  Visualization: Created visual representations, such as histograms and scatterplots, to effectively communicate sales data trends and regional performance.
 
+
+#### Some Visualizations
+
+![Box plot showing the Credit Limit by Card Type](assists/Boxplot.png)
+Box plot showing the Credit Limit by Card Type
+
+![Correlation Heatmap](assists/CorrelationHeatmap.png)
+Correlation Heatmap
+
+![Histogram of Customer Ages](assists/Hist.png)
+Histogram of Customer Ages

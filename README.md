@@ -1,4 +1,4 @@
-# DataCAnalysisCPortfolio
+# Data_Analysis_Portfolio
 
 ### Education
 -  B.S., Mathematics | Delta State University (_November 2020_)

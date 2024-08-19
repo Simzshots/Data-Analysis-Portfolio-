@@ -4,8 +4,8 @@
 
 
 ### Education
-- B.Sc Mathematics | Delta State University (_November 2020_)
-- M.Sc Big Data Analytics | University of Derby (_May 2024_)  
+- B.Sc Mathematics (First Class) | Delta State University (_November 2020_)
+- M.Sc Big Data Analytics (Distinction)| University of Derby (_May 2024_)  
 
 ### Work Experience 
 Business Data Analyst at Anheuser-Busch InBev
@@ -14,7 +14,7 @@ Business Data Analyst at Anheuser-Busch InBev
 -  Conducted root cause analysis using Python and Excel to review logistic costs, resulting in savings exceeding 20% of the total procurement spend. 
 
 ## Projects
-### Loan Defaulters Analysis
+### Project 1: Loan Defaulters Analysis
 
 In this project, I conducted a comprehensive analysis of loan defaulters using data sourced from Kaggle. The process began with data cleaning and transformation to ensure accuracy and reliability. I then performed Exploratory Data Analysis (EDA) to gain a deeper understanding of the dataset, focusing on key factors such as age, sex, and income.
 To predict the likelihood of loan default, I developed a logistic regression model. This model was implemented using SAS, Python and R Studio, where I conducted preprocessing, visualization, and comparative analysis. Through this comparison, I highlighted the efficiency of Python in handling similar tasks.
@@ -28,7 +28,7 @@ The analysis led to the identification of actionable insights regarding default 
 -  Tool Utilization: Leveraged SAS, Python and R Studio for preprocessing, visualization, and model comparison.
 -  Insights Generation: Identified key risk factors contributing to loan defaults and provided actionable insights for risk mitigation.
 
-### Crime Analysis and Population Distribution in Derbyshire
+### Project 2: Crime Analysis and Population Distribution in Derbyshire
 In this project, I conducted a thorough analysis of the 2019 population distribution and crime density across 642 regions in Derbyshire using R studio to better understand crime patterns. The process began with data preprocessing, cleaning, and exploratory data analysis (EDA) to ensure a solid understanding of the dataset.
 
 #### Key Contributions:
@@ -40,7 +40,7 @@ In this project, I conducted a thorough analysis of the 2019 population distribu
 -  Data Visualization: Utilized a variety of visual tools, including histograms, scatterplots, treemaps, and geospatial maps, to effectively illustrate crime frequency and population distribution.
 
 
-### Bank Churners and Video Game Sales Data Analysis
+### Project 3: Bank Churners and Video Game Sales Data Analysis
 In this project, I conducted a comprehensive statistical analysis of the bank churners and video game sales datasets using R Studio. The goal was to derive meaningful insights into customer behavior and sales trends through a series of rigorous statistical tests and modeling techniques.
 
 #### Bank Churners Analysis

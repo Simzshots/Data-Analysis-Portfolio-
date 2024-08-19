@@ -4,8 +4,8 @@
 
 
 ### Education
-- B.S., Mathematics | Delta State University (_November 2020_)
-- M.S., Big Data Analytics | University of Derby (_May 2024_)  
+- B.Sc Mathematics | Delta State University (_November 2020_)
+- M.Sc Big Data Analytics | University of Derby (_May 2024_)  
 
 ### Work Experience 
 Business Data Analyst at Anheuser-Busch InBev

@@ -18,7 +18,7 @@ To predict the likelihood of loan default, I developed a logistic regression mod
 
 The analysis led to the identification of actionable insights regarding default risk factors, which were thoroughly documented in a final report.
 
-####Key Contributions:
+###Key Contributions:
 
 Data Analysis: Analyzed loan application data, ensuring data integrity and accuracy using SAS, Python and R Studio.
 Model Development: Created a logistic regression model to predict default probabilities.

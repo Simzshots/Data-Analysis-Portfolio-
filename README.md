@@ -27,7 +27,7 @@ The analysis led to the identification of actionable insights regarding default 
 -  Model Development: Created a logistic regression model to predict default probabilities.
 -  Tool Utilization: Leveraged SAS, Python and R Studio for preprocessing, visualization, and model comparison.
 -  Insights Generation: Identified key risk factors contributing to loan defaults and provided actionable insights for risk mitigation.
-#### EDA Visualizations
+#### Some Visualizations
 
 ![Bar chart of Loan Amounts](assists/Barchart.png)
 
@@ -51,6 +51,9 @@ In this project, I conducted a thorough analysis of the 2019 population distribu
 -  Crime Variable Descriptions: Provided comprehensive descriptions of each crime variable to enhance understanding and context for further analysis.
 -  Model Development: Established correlations between crime rates and population densities using linear regression models, aiding in the development of crime reduction strategies.
 -  Data Visualization: Utilized a variety of visual tools, including histograms, scatterplots, treemaps, and geospatial maps, to effectively illustrate crime frequency and population distribution.
+
+#### Some Visualizations
+![Bar chart of Loan Amounts](assists/Barchart.png)
 
 
 ### Project 3: Bank Churners and Video Game Sales Data Analysis

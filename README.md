@@ -27,6 +27,18 @@ The analysis led to the identification of actionable insights regarding default 
 -  Model Development: Created a logistic regression model to predict default probabilities.
 -  Tool Utilization: Leveraged SAS, Python and R Studio for preprocessing, visualization, and model comparison.
 -  Insights Generation: Identified key risk factors contributing to loan defaults and provided actionable insights for risk mitigation.
+#### EDA Visualizations
+
+![Bar chart of Loan Amounts](assists/Barchart.png)
+*Bar chart showing the distribution of loan amounts.*
+
+![Correlation](assists/Correlation.png)
+*Correlation of numerical variables.*
+
+#### Model Performance
+
+![ROC Curve](assists/ROC_curve.png)
+*ROC curve for the logistic regression model.*
 
 ### Project 2: Crime Analysis and Population Distribution in Derbyshire
 In this project, I conducted a thorough analysis of the 2019 population distribution and crime density across 642 regions in Derbyshire using R studio to better understand crime patterns. The process began with data preprocessing, cleaning, and exploratory data analysis (EDA) to ensure a solid understanding of the dataset.

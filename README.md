@@ -26,7 +26,7 @@ The analysis led to the identification of actionable insights regarding default 
 -  Insights Generation: Identified key risk factors contributing to loan defaults and provided actionable insights for risk mitigation.
 
 ### Crime Analysis and Population Distribution in Derbyshire
-In this project, I conducted a thorough analysis of the 2019 population distribution across 642 regions in Derbyshire using R studio to better understand crime patterns. The process began with data preprocessing, cleaning, and exploratory data analysis (EDA) to ensure a solid understanding of the dataset.
+In this project, I conducted a thorough analysis of the 2019 population distribution and crime density across 642 regions in Derbyshire using R studio to better understand crime patterns. The process began with data preprocessing, cleaning, and exploratory data analysis (EDA) to ensure a solid understanding of the dataset.
 
 #### Key Contributions:
 
@@ -35,3 +35,25 @@ In this project, I conducted a thorough analysis of the 2019 population distribu
 -  Crime Variable Descriptions: Provided comprehensive descriptions of each crime variable to enhance understanding and context for further analysis.
 -  Model Development: Established correlations between crime rates and population densities using linear regression models, aiding in the development of crime reduction strategies.
 -  Data Visualization: Utilized a variety of visual tools, including histograms, scatterplots, treemaps, and geospatial maps, to effectively illustrate crime frequency and population distribution.
+
+
+### Bank Churners and Video Game Sales Data Analysis
+In this project, I conducted a comprehensive statistical analysis of the bank churners and video game sales datasets using R Studio. The goal was to derive meaningful insights into customer behavior and sales trends through a series of rigorous statistical tests and modeling techniques.
+
+#### Bank Churners Analysis
+Data Overview: Analyzed a dataset comprising 10,127 bank customers, focusing on attributes such as age, credit limit, and transaction behavior to understand factors influencing customer attrition.
+
+-  One-Sample T-Test: Conducted a test to determine if the average age of customers deviates from 45 years. The analysis revealed a statistically significant difference, indicating that the average age is not 45.
+-  Welch Two-Sample T-Test: Compared credit limits between male and female customers. Results showed a significant difference, with males having higher average credit limits than females.
+-  ANOVA Test: Evaluated if credit limits vary across different card categories. The analysis demonstrated significant variability in credit limits among categories.
+-  Linear Regression: Investigated the relationship between credit limit, customer age, and total transaction amount. The model identified credit limit and age as significant predictors, though the overall model explained only a small portion of the variance.
+-  Chi-Square Test: Examined the independence of customer attrition from marital status. The test indicated no significant relationship between these variables.
+-  Logistic Regression: Identified key predictors of customer attrition, including total transaction amount, gender, and card category. Age and credit limit were found to be non-significant in predicting attrition.
+
+#### Video Game Sales Analysis
+Data Overview: Analyzed video game sales data to explore sales trends across various platforms and genres globally.
+
+-  Exploratory Analysis: Examined sales patterns, identifying Nintendo as a dominant player in global sales and highlighting popular genres like sports and platform games.
+-  Correlation Exploration: Investigated relationships between sales figures in different regions and other variables to uncover significant sales trends and regional preferences.
+-  Visualization: Created visual representations, such as histograms and scatterplots, to effectively communicate sales data trends and regional performance.
+

@@ -30,6 +30,7 @@ The analysis led to the identification of actionable insights regarding default 
 #### EDA Visualizations
 
 ![Bar chart of Loan Amounts](assists/Barchart.png)
+
 Bar chart showing the distribution of loan amounts.
 
 ![Correlation](assists/Correlation.png)

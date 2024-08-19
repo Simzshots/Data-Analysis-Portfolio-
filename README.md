@@ -53,7 +53,17 @@ In this project, I conducted a thorough analysis of the 2019 population distribu
 -  Data Visualization: Utilized a variety of visual tools, including histograms, scatterplots, treemaps, and geospatial maps, to effectively illustrate crime frequency and population distribution.
 
 #### Some Visualizations
-![Bar chart of Loan Amounts](assists/Barchart.png)
+![Pie chart of Population by District](assists/PieChart.png)
+Pie chart of Population by District in Derbyshire, 2019
+
+![Heat map of Residuals for Crime Indicators](assists/Heatmap.png)
+Heatmap of Residuals for Crime Indicators in Derbyshire, 2019
+
+![Geo map](assists/Geo_map.png)
+Population Density in Derbyshire, 2019
+
+![Tree map](assists/Treemap.png)
+Tree map showing the area by district in Derbyshire, 2019
 
 
 ### Project 3: Bank Churners and Video Game Sales Data Analysis

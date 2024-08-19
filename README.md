@@ -1,4 +1,7 @@
-# Data_Analysis_Portfolio
+# Data Analyst
+
+#### Technical Skills: Python, SQL, R Studio, SAS, Power BI 
+
 
 ### Education
 -  B.S., Mathematics | Delta State University (_November 2020_)

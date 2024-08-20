@@ -14,9 +14,9 @@ Business Data Analyst at Anheuser-Busch InBev
 -  Conducted root cause analysis using Python and Excel to review logistic costs, resulting in savings exceeding 20% of the total procurement spend. 
 
 ## Projects
-### Project 1: Loan Defaulters Analysis
+### [Project 1: Loan Defaulters Analysis](https://simzshots.github.io/Loan_Defaulters_Analysis/)
 
-In this project, I conducted a comprehensive analysis of loan defaulters using data sourced from Kaggle. The process began with data cleaning and transformation to ensure accuracy and reliability. I then performed Exploratory Data Analysis (EDA) to gain a deeper understanding of the dataset, focusing on key factors such as age, sex, and income.
+In this project, I was part of a four man team who conducted a comprehensive analysis of loan defaulters using data sourced from Kaggle.com . The process began with data cleaning and transformation to ensure accuracy and reliability. I then performed Exploratory Data Analysis (EDA) to gain a deeper understanding of the dataset, focusing on key factors such as age, sex, and income.
 To predict the likelihood of loan default, I developed a logistic regression model. This model was implemented using SAS, Python and R Studio, where I conducted preprocessing, visualization, and comparative analysis. Through this comparison, I highlighted the efficiency of Python in handling similar tasks.
 
 The analysis led to the identification of actionable insights regarding default risk factors, which were thoroughly documented in a final report.

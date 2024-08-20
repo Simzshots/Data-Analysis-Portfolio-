@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, R Studio, SAS, Power BI 
+#### Technical Skills: Python, SQL, R Studio, SAS, Power BI, Excel 
 
 
 ### Education

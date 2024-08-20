@@ -14,35 +14,8 @@ Business Data Analyst at Anheuser-Busch InBev
 -  Conducted root cause analysis using Python and Excel to review logistic costs, resulting in savings exceeding 20% of the total procurement spend. 
 
 ## Projects
-### [Project 1: Loan Defaulters Analysis](https://simzshots.github.io/Loan_Defaulters_Analysis/)
 
-In this project, I was part of a four man team who conducted a comprehensive analysis of loan defaulters using data sourced from Kaggle.com . The process began with data cleaning and transformation to ensure accuracy and reliability. I then performed Exploratory Data Analysis (EDA) to gain a deeper understanding of the dataset, focusing on key factors such as age, sex, and income.
-To predict the likelihood of loan default, I developed a logistic regression model. This model was implemented using SAS, Python and R Studio, where I conducted preprocessing, visualization, and comparative analysis. Through this comparison, I highlighted the efficiency of Python in handling similar tasks.
-
-The analysis led to the identification of actionable insights regarding default risk factors, which were thoroughly documented in a final report.
-
-#### Key Contributions:
-
--  Data Analysis: Analyzed loan application data, ensuring data integrity and accuracy using SAS, Python and R Studio.
--  Model Development: Created a logistic regression model to predict default probabilities.
--  Tool Utilization: Leveraged SAS, Python and R Studio for preprocessing, visualization, and model comparison.
--  Insights Generation: Identified key risk factors contributing to loan defaults and provided actionable insights for risk mitigation.
-
-#### Some Visualizations
-
-![Bar chart of Loan Amounts](assists/Barchart.png)
-
-Bar chart showing the distribution of loan amounts.
-
-![Correlation](assists/Correlation.png)
-Correlation of numerical variables.
-
-#### Model Performance
-
-![ROC Curve](assists/ROC.png)
-ROC curve for the logistic regression model.
-
-### Project 2: Crime Analysis and Population Distribution in Derbyshire
+### Project 1: Crime Analysis and Population Distribution in Derbyshire
 In this project, I conducted a thorough analysis of the 2019 population distribution and crime density across 642 regions in Derbyshire using R studio to better understand crime patterns. The process began with data preprocessing, cleaning, and exploratory data analysis (EDA) to ensure a solid understanding of the dataset.
 
 #### Key Contributions:
@@ -55,19 +28,24 @@ In this project, I conducted a thorough analysis of the 2019 population distribu
 
 #### Some Visualizations
 ![Pie chart of Population by District](assists/PieChart.png)
-Pie chart of Population by District in Derbyshire, 2019
+
+_Pie chart of Population by District in Derbyshire, 2019_
 
 ![Heat map of Residuals for Crime Indicators](assists/Heatmap.png)
-Heatmap of Residuals for Crime Indicators in Derbyshire, 2019
+
+_Heatmap of Residuals for Crime Indicators in Derbyshire, 2019_
 
 ![Geo map](assists/Geo_map.png)
-Population Density in Derbyshire, 2019
+
+_Population Density in Derbyshire, 2019_
 
 ![Tree map](assists/Treemap.png)
-Tree map showing the area by district in Derbyshire, 2019
 
+_Tree map showing the area by district in Derbyshire, 2019_
 
-### Project 3: Bank Churners and Video Game Sales Data Analysis
+---
+
+### Project 2: Bank Churners and Video Game Sales Data Analysis
 In this project, I conducted a comprehensive statistical analysis of the bank churners and video game sales datasets using R Studio. The goal was to derive meaningful insights into customer behavior and sales trends through a series of rigorous statistical tests and modeling techniques.
 
 #### Bank Churners Analysis
@@ -92,10 +70,44 @@ Data Overview: Analyzed video game sales data to explore sales trends across var
 #### Some Visualizations
 
 ![Box plot showing the Credit Limit by Card Type](assists/Boxplot.png)
-Box plot showing the Credit Limit by Card Type
+
+_Box plot showing the Credit Limit by Card Type_
 
 ![Correlation Heatmap](assists/CorrelationHeatmap.png)
-Correlation Heatmap
+
+_Correlation Heatmap_
 
 ![Histogram of Customer Ages](assists/Hist.png)
-Histogram of Customer Ages
+
+_Histogram of Customer Ages_
+
+---
+
+### [Project 3: Loan Defaulters Analysis](https://simzshots.github.io/Loan_Defaulters_Analysis/)
+
+In this project, I was part of a four man team who conducted a comprehensive analysis of loan defaulters using data sourced from www.kaggle.com . The process began with data cleaning and transformation to ensure accuracy and reliability. I then performed Exploratory Data Analysis (EDA) to gain a deeper understanding of the dataset, focusing on key factors such as age, sex, and income.
+To predict the likelihood of loan default, I developed a logistic regression model. This model was implemented using SAS, Python and R Studio, where I conducted preprocessing, visualization, and comparative analysis. Through this comparison, I highlighted the efficiency of Python in handling similar tasks.
+
+The analysis led to the identification of actionable insights regarding default risk factors, which were thoroughly documented in a final report.
+
+#### Key Contributions:
+
+-  Data Analysis: Analyzed loan application data, ensuring data integrity and accuracy using SAS, Python and R Studio.
+-  Model Development: Created a logistic regression model to predict default probabilities.
+-  Tool Utilization: Leveraged SAS, Python and R Studio for preprocessing, visualization, and model comparison.
+-  Insights Generation: Identified key risk factors contributing to loan defaults and provided actionable insights for risk mitigation.
+
+#### Some Visualizations
+
+![Bar chart of Loan Amounts](assists/Barchart.png)
+
+_Bar chart showing the distribution of loan amounts_
+
+![Correlation](assists/Correlation.png)
+_Correlation of numerical variables_
+
+#### Model Performance
+
+![ROC Curve](assists/ROC.png)
+
+_ROC curve for the logistic regression model._

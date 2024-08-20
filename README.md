@@ -27,6 +27,7 @@ The analysis led to the identification of actionable insights regarding default 
 -  Model Development: Created a logistic regression model to predict default probabilities.
 -  Tool Utilization: Leveraged SAS, Python and R Studio for preprocessing, visualization, and model comparison.
 -  Insights Generation: Identified key risk factors contributing to loan defaults and provided actionable insights for risk mitigation.
+
 #### Some Visualizations
 
 ![Bar chart of Loan Amounts](assists/Barchart.png)

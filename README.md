@@ -85,16 +85,16 @@ _Histogram of Customer Ages_
 
 ### [Project 3: Loan Defaulters Analysis](https://simzshots.github.io/Loan_Defaulters_Analysis/)
 
-In this project, I was part of a four man team who conducted a comprehensive analysis of loan defaulters using data sourced from www.kaggle.com . The process began with data cleaning and transformation to ensure accuracy and reliability. I then performed Exploratory Data Analysis (EDA) to gain a deeper understanding of the dataset, focusing on key factors such as age, sex, and income.
-To predict the likelihood of loan default, I developed a logistic regression model. This model was implemented using SAS, Python and R Studio, where I conducted preprocessing, visualization, and comparative analysis. Through this comparison, I highlighted the efficiency of Python in handling similar tasks.
+In this project, I was part of a four man team who conducted a comprehensive analysis of loan defaulters using data sourced from www.kaggle.com . The process began with data cleaning and transformation to ensure accuracy and reliability. We then performed Exploratory Data Analysis (EDA) to gain a deeper understanding of the dataset, focusing on key factors such as age, sex, and income.
+To predict the likelihood of loan default, we developed a logistic regression model. This model was implemented using SAS and R Studio, where we conducted preprocessing, visualization, and comparative analysis. Through this comparison, we highlighted the efficiency of R Studio in handling similar tasks.
 
 The analysis led to the identification of actionable insights regarding default risk factors, which were thoroughly documented in a final report.
 
 #### Key Contributions:
 
--  Data Analysis: Analyzed loan application data, ensuring data integrity and accuracy using SAS, Python and R Studio.
+-  Data Analysis: Analyzed loan application data, ensuring data integrity and accuracy using SAS and R Studio.
 -  Model Development: Created a logistic regression model to predict default probabilities.
--  Tool Utilization: Leveraged SAS, Python and R Studio for preprocessing, visualization, and model comparison.
+-  Tool Utilization: Leveraged SAS and R Studio for preprocessing, visualization, and model comparison.
 -  Insights Generation: Identified key risk factors contributing to loan defaults and provided actionable insights for risk mitigation.
 
 #### Some Visualizations

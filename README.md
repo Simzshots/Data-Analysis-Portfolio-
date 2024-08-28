@@ -45,7 +45,7 @@ _Tree map showing the area by district in Derbyshire, 2019_
 
 ---
 
-### Project 2: Bank Churners and Video Game Sales Data Analysis
+### Project 2: [Bank Churners and Video Game Sales Data Analysis](https://simzshots.github.io/Bank-Churners-and-Video-Game-Sales-Data-Analysis/)
 In this project, I conducted a comprehensive statistical analysis of the bank churners and video game sales datasets using R Studio. The goal was to derive meaningful insights into customer behavior and sales trends through a series of rigorous statistical tests and modeling techniques.
 
 #### Bank Churners Analysis

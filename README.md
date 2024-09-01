@@ -15,7 +15,7 @@ Business Data Analyst at Anheuser-Busch InBev
 
 ## Projects
 
-### Project 1: Crime Analysis and Population Distribution in Derbyshire
+### Project 1: [Crime Analysis and Population Distribution in Derbyshire](https://simzshots.github.io/Crime-Analysis-in-Derbyshire-2019/)
 In this project, I conducted a thorough analysis of the 2019 population distribution and crime density across 642 regions in Derbyshire using R studio to better understand crime patterns. The process began with data preprocessing, cleaning, and exploratory data analysis (EDA) to ensure a solid understanding of the dataset.
 
 #### Key Contributions:

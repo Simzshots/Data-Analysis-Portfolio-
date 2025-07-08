@@ -8,6 +8,16 @@
 - M.Sc Big Data Analytics (Distinction)| University of Derby (_May 2024_)  
 
 ### Work Experience 
+Insights Analyst at Logobrand, Nottingham, UK
+-	Developed and optimised Power BI dashboards to identify underperforming SKUs, zero-sales stores, and commercial opportunities across national teams.
+-	Led product launch analysis, identifying low-conversion stores and driving a 26% sales uplift through targeted visits.
+-	Delivered tailored insights on product performance, visibility, and seasonal trends to inform operations and client strategies.
+-	Scoped a weather-based predictive tool, researching APIs and building business cases for future integration.
+-	Automated reporting workflows for field feedback, reducing manual work and improving accuracy.
+-	Collaborated with commercial teams to create decision-ready data narratives and refine dashboards iteratively.
+-	Generated exploratory insights with SQL, Python, and Excel for analytics, performance tracking, and survey sentiment analysis.
+-	Authored technical and non-technical documentation to support predictive analytics and future ML projects.
+
 Business Data Analyst at Anheuser-Busch InBev
 -  Utilised data visualisation tools like Power BI and R to make useful insights on business development.
 -  Conducted data collection, cleaning, processing and analysis for procurement and sales team significantly influencing decision-making and ensuring the continuation of the business.
